@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: jolee
+Build-Jdk: 1.7.0_51
+Created-By: Apache Maven
+Archiver-Version: Plexus Archiver
+Dependencies: deployment.gss.rar export
+
